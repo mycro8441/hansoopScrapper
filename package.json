@@ -1,0 +1,19 @@
+{
+  "name": "hansoopscrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mycro8441/hansoopScrapper.git"
+  },
+  "author": "mycro8441",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mycro8441/hansoopScrapper/issues"
+  },
+  "homepage": "https://github.com/mycro8441/hansoopScrapper#readme"
+}
